@@ -47,7 +47,7 @@
 <body>
 
     <h2>Overview of SmartHydro</h2>
-    <p>Welcome to SmartHydro. Smart Hydro is a community-driven project focused on empowering self-sufficient farmers with hydroponic systems to cultivate their own crops. This app plays a crucial role in this effort by enabling users to easily manage and keep an eye on their hydroponic system. This helps ensure that their plants grow sustainably. </p>
+    <p>Welcome to SmartHydro. Smart Hydro is a community-driven project focused on empowering self-sufficient farmers with hydroponic systems to cultivate their own crops. This app plays a crucial role in this effort by enabling users to easily manage and keep an eye on their hydroponic system. This helps ensure that their plants grow sustainably.p>
 
     <h2>Features</h2>
 
