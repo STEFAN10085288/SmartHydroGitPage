@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Smart Hydror</title>
+    <title>Smart Hydro</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -14,11 +13,14 @@
             padding: 20px;
             line-height: 1.6;
         }
-        h2 {
-            color: #234725; /* Dark Green */
+        .header {
+            text-align: center;
         }
-        h3 {
-            color: #428948; /* Light Green */
+        .header h2 {
+            color: #234725; 
+        }
+        .header h3 {
+            color: #428948; 
         }
         code {
             background-color: #f4f4f4;
@@ -33,11 +35,14 @@
             align-items: center;
             margin-bottom: 40px;
         }
+        .feature-description, .feature-image {
+            max-width: 45%;
+        }
         .feature-description {
-            max-width: 60%;
+            order: 2; 
         }
         .feature-image {
-            max-width: 35%;
+            order: 1; 
         }
         .feature-image img {
             max-width: 100%;
@@ -47,8 +52,10 @@
 </head>
 <body>
 
-    <h2>Overview of Smart Hydro</h2>
-    <p>Introductory text about Smart Hydro.</p>
+    <div class="header">
+        <h2>Overview of Smart Hydro</h2>
+        <p>Introductory text about Smart Hydro.</p>
+    </div>
 
     <h2>Features</h2>
 
@@ -63,12 +70,12 @@
     </div>
 
     <div class="feature-container">
+        <div class="feature-image">
+            <img src="feature2_screenshot.png" alt="Feature 2 Screenshot">
+        </div>
         <div class="feature-description">
             <h3>Title of Feature 2</h3>
             <p>Description of Feature 2.</p>
-        </div>
-        <div class="feature-image">
-            <img src="feature2_screenshot.png" alt="Feature 2 Screenshot">
         </div>
     </div>
 
