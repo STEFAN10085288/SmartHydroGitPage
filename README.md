@@ -47,14 +47,14 @@
 <body>
 
     <h2>Overview of SmartHydro</h2>
-    <p>Welcome to SmartHydro. Smart Hydro is a community-driven project focused on empowering self-sufficient farmers with hydroponic systems to cultivate their own crops. This app plays a crucial role in this effort by enabling users to easily manage and keep an eye on their hydroponic system. This helps ensure that their plants grow sustainably.p>
+    <p>Welcome to SmartHydro. Smart Hydro is a community-driven project focused on empowering self-sufficient farmers with hydroponic systems to cultivate their own crops. This app plays a crucial role in this effort by enabling users to easily manage and keep an eye on their hydroponic system. This helps ensure that their plants grow sustainably.</p>
 
     <h2>Features</h2>
 
     <div class="feature-container">
         <div class="feature-description">
             <h3>Log in & registration </h3>
-            <p>SmartHydro enables for Goolge login and regsiter throught your Google account for simple and efficient login and registration. If you decide not to use Google login to only use the essential feature the skip login button can be used p>
+            <p>SmartHydro enables for Goolge login and regsiter throught your Google account for simple and efficient login and registration. If you decide not to use Google login to only use the essential feature the skip login button can be used </p>
         </div>
         <div class="feature-image">
             <img src="feature1_screenshot.png" alt="Feature 1 Screenshot">
