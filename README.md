@@ -58,7 +58,7 @@
             <p>Smart Hydro enables Google login and registration through your Google account for simple and efficient login and registration. If you decide not to use Google login and only use the essential features, the skip login button can be used.</p>
         </div>
         <div class="feature-image">
-            <img src="https://github.com/STEFAN10085288/SmartHydroGitPage/blob/main/Images/account_info.jpeg" alt="Feature 1 Screenshot">
+            <img src="Images/accountInfo.jpeg" alt="Feature 1 Screenshot">
         </div>
     </div>
 
