@@ -55,7 +55,7 @@
             <p>SmartHydro enables for Goolge login and regsiter throught your Google account for simple and efficient login and registration. If you decide not to use Google login to only use the essential feature the skip login button can be used </p>
         </div>
         <div class="feature-image">
-            <img src="feature1_screenshot.png" alt="Feature 1 Screenshot">
+            <img src="Images/account_info" alt="Feature 1 Screenshot">
         </div>
     </div>
 
